@@ -7,7 +7,7 @@
   <a href="mailto:alshafaraz.gazi@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://coderchef26.github.io" target="_blank">
+  <a href="https://coderchef26.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -86,7 +86,7 @@ Currently working as an **Analyst Programmer at CRV New Zealand**, where I desig
 ### :mailbox: How to reach me
 
 LinkedIn : [Alshafaraz Hussain Gazi](https://www.linkedin.com/in/gazi-ah/) </br>
-Portfolio : [coderchef26.github.io](https://coderchef26.github.io) </br>
+Portfolio : [coderchef26.dev](https://coderchef26.dev) </br>
 Email : alshafaraz.gazi@gmail.com
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=120&section=footer)
